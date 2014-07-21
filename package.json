@@ -1,0 +1,17 @@
+{
+  "name": "sando-parser",
+  "version": "0.0.0",
+  "description": "Declarative compositing for humans (parser)",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stamen/sando-parser.git"
+  },
+  "author": "Shawn Allen <shawn@stamen.com>",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "^1.20.1"
+  }
+}

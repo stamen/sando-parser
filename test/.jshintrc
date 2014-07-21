@@ -1,0 +1,21 @@
+{
+  "node": true,
+  "es5": true,
+  "globalstrict": true,
+  "curly": true,
+  "sub": true,
+  "indent": 2,
+  "newcap": true,
+  "white": false,
+  "undef": true,
+  "unused": true,
+  "globals"   : {
+    /* MOCHA */
+    "describe"   : false,
+    "it"         : false,
+    "before"     : false,
+    "beforeEach" : false,
+    "after"      : false,
+    "afterEach"  : false
+  }
+}
