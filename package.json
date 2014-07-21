@@ -1,6 +1,6 @@
 {
   "name": "sando-parser",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Declarative compositing for humans (parser)",
   "scripts": {
     "test": "mocha"
